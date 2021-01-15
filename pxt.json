@@ -2,7 +2,9 @@
     "name": "bossFight",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "darts": "*",
+        "palette": "*"
     },
     "files": [
         "main.blocks",
